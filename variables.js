@@ -3,4 +3,4 @@ const numOfPeople = 1;
 const num2 = 2;
 console.log(numOfPeople * 2);
 
-//you want the variable name to resembe the value, avoid letters only
+//you want the variable name to resemble the value, avoid letters only
