@@ -5,7 +5,7 @@ const user = {
   age: 31,
   employed: true,
   socialMedia: {
-    twitter: "",
+    twitter: "tweet",
     fb: "",
     github: ""
   }
