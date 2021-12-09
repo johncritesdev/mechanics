@@ -1,4 +1,4 @@
-//conditional chaining
+//conditional chaining or conditional rendering
 
 let num = 0;
 let firstName = "Jay";
