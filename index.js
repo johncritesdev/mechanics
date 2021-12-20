@@ -1,1 +1,5 @@
-console.log('hello world');
+var getInitials = function (name) {
+
+}
+
+getInitials("Jay Critze");
